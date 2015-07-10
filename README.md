@@ -9,6 +9,8 @@ http://devgirl.org/2013/07/17/tutorial-implement-push-notifications-in-your-phon
 
 http://samcroft.co.uk/2011/updated-loading-data-in-phonegap-using-jquery-1-5/
 
+http://html5up.net/ (for responsive templates)
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
