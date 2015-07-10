@@ -19,6 +19,8 @@ http://phonegap.com/install/
 
 https://dl.google.com/dl/android/studio/install/1.2.2.0/android-studio-bundle-141.1980579-windows.exe (android studio)
 
+http://www.makeatrail.com/how-to-run-your-phonegap-android-app-on-a-windows-pc-and-test-it-on-your-connected-android-device-or-emulator/
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
